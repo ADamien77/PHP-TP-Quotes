@@ -1,0 +1,12 @@
+CONSIGNES
+- Un formulaire doit être affiché, contenant uniquement des cases à cocher (checkbox) pour chaque 
+langage de programmation : PHP, HTML, JavaScript, SQL et CSS.
+- Lors de la soumission de ce formulaire, une citation aléatoire va être affichée. Cette citation 
+sera sélectionnée parmi le ou les langages qui auront été choisis.
+- L'utilisation d'une fonction pour la sélection de la citation est recommandée afin d'obtenir un 
+code HTML plus propre et mieux structuré.
+
+BONUS
+- Un champ doit pouvoir trouver les citations possédant le mot inscrit dans le champ 
+de recherche, peu importe le langage, et en affiche une au hasard si plusieurs, sinon 
+affiche "Pas de citations correspondantes"
